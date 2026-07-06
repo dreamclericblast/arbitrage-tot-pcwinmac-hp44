@@ -1,4 +1,4 @@
-# 
+# VIP arbitrage trading bot scripts for Mac OS | Professional arbitrage trading bot scripts for PC Windows. Featuring mean reversion strategy and dex liquidity pools — optimized for maximum performance.
 
 
 
